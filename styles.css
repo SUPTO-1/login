@@ -77,7 +77,7 @@ body
     background-image: url('/images/envelope.png');
 }
 #inputsecond{
-    background-image: url('/images/padlock.png');
+    background-image: url('images/padlock.png');
     padding-bottom: -5px;
 }
 ::placeholder{
