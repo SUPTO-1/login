@@ -20,7 +20,7 @@ body
 }
 #right{
     background-color: #8F00FF;
-    background-image: url('https://static.cricbuzz.com/a/img/v1/152x152/i1/c332891/virat-kohli.jpg');
+    background-image: url('images/frontimg.jpg');
     background-size: 800px 800px;
     background-repeat: no-repeat;
     /* border: 2px solid; */
@@ -74,7 +74,7 @@ body
    margin-bottom: 60px;
 }
 #inputone{
-    background-image: url('/images/envelope.png');
+    background-image: url('images/envelope.png');
 }
 #inputsecond{
     background-image: url('images/padlock.png');
